@@ -1,0 +1,21 @@
+.text {
+	font-weight: bold;
+	border: 3px solid #cccc;
+	border-radius: 10px;
+}
+.text2 {
+	font-style: italic;
+}
+.text3 {
+	text-decoration: underline;
+}
+.text4 {
+	text-decoration: line-through;
+}
+.head {
+	color: #8c4743;
+	text-align: center;
+}
+body {
+	background-color: #f0dfdf;
+}
